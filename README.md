@@ -14,4 +14,4 @@ This repository contains material from a lecture given at the *Unite! Research S
 
 https://www.unite-energy-msca.eu/
 
-https://www.unite-university.eu/unitenews/unite-research-school-registration-is-open
+https://www.unite-university.eu/
